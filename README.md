@@ -1,1 +1,1 @@
-# uok-mba-marketing-gpa-calculator
+# gpa-calculator
